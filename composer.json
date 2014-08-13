@@ -1,0 +1,9 @@
+{
+    "name": "flexpress/component-image-size",
+    "description": "Image sizes helper for forWordPress",
+    "autoload": {
+        "psr-4": {
+            "FlexPress\\Components\\ImageSize\\": "src/FlexPress/Components/ImageSize/"
+        }
+    }
+}
