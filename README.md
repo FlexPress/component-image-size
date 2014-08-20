@@ -1,4 +1,4 @@
-# FlexPress orm component
+# FlexPress imag size component
 
 ## Install with Pimple
 The image size component uses two classes:
