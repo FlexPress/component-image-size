@@ -20,7 +20,7 @@ $this['imageSizeHelper'] = function ($c) {
 - Note the dependency $c['objectStorage']  is a SPLObjectStorage
 
 ## Creating a concreate ImageSize class
-Create a concreate class that implement the AbstractImageSize class and implements the getName(), getHeight() and getWidth() methods.
+Create a concreate class that implements the AbstractImageSize class and implements the getName(), getHeight() and getWidth() methods.
 
 ```
 class Feature extends AbstractImageSize {
