@@ -11,7 +11,7 @@ $pimple["featureImageSize"] = function () {
   return new FeatureImageSize();
 };
 
-$this['imageSizeHelper'] = function ($c) {
+$pimple['imageSizeHelper'] = function ($c) {
     return new ImageSizeHelper($c['objectStorage'], array(
         $c["featureImageSize"]
     ));
