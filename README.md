@@ -41,7 +41,7 @@ class Feature extends AbstractImageSize {
     }
 }
 ```
-This above example is the bare minimum you must implement, the example that follows is the other extreamm implementing all available methods.
+This above example is the bare minimum you must implement, the example that follows is the other extreme implementing all available methods.
 ```
 class Feature extends AbstractImageSize {
 
