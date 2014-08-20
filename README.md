@@ -3,7 +3,7 @@
 ## Install with Pimple
 The image size component uses two classes:
 - AbstractImageSize, which you extend to create a image size.
-- ImageSizeHelper, which hooks into everything for you and registeres the image sizes.
+- ImageSizeHelper, which hooks into everything for you and registers the image sizes.
 - Lets create a pimple config for both of these
 
 ```
